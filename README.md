@@ -1,9 +1,4 @@
 # Online Shoppers Purchasing Intention
-1. Data Overview
-2. Problem
-3. Goals
-4. Objective
-5. Business Metrics
 
 ## Overview 
 
@@ -36,7 +31,7 @@ Dataset Online Shoppers Purchasing Intention terdiri dari 18 features yang dikel
 |PageValues |
 |SpecialDay |
 
-Selengkapnya [here](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)
+Selengkapnya tentang data [here](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset)
 
 ## EDA Summary Insight
 1. Metode yang digunakan saat ini belum tepat untuk menghasilkan revenue, hal ini tampil dari data bahwa banyaknya jumlah visitor tidak berakhir dengan revenue.
