@@ -73,8 +73,7 @@ Dari Analisa diatas maka disimpulkan bahwa : <br>
 
 
 ##### B. Fetaure Extraction
-**Total Duration** = `Administrative_Duration + Informational_Duration + ProductRelated_Duration
-Rasio (Duration/Page)` <br>
+**Total Duration** = `Administrative_Duration + Informational_Duration + ProductRelated_Duration Rasio (Duration/Page)` <br>
 **adm_rasio** =  `Administrative_Duration/ Administrative` <br>
 **info_rasio** =  `Informational_Duration / Informational` <br>
 **product_rasio** = `ProductRelated_Duration / ProductRelated`
